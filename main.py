@@ -1,6 +1,6 @@
 import pygame 
 import random
-import sys
+
 pygame.init()
 sx = 1450
 sy = 820
